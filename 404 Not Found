@@ -1,0 +1,6 @@
+
+X=int(input())
+if(X!=404):
+    print("FOUND")
+else:
+    print("NOT FOUND")
