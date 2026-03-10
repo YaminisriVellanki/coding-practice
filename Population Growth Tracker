@@ -1,0 +1,11 @@
+class Codechef {
+    public static void main(String[] args) {
+       
+        int cityPopulation = 5_000_000;  
+        short districtPopulation = 25_000;  
+
+       
+        System.out.println("City Population: " + cityPopulation);
+        System.out.println("District Population: " + districtPopulation);
+    }
+}
