@@ -1,0 +1,11 @@
+class Codechef {
+    public static void main(String[] args) {
+        
+        byte hotRegionTemp = 45;  
+        byte coldRegionTemp = -20; 
+
+        
+        System.out.println("Hot Region Temperature: " + hotRegionTemp);
+        System.out.println("Cold Region Temperature: " + coldRegionTemp);
+    }
+}
